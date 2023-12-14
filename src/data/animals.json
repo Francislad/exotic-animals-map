@@ -1,0 +1,31 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "title": "Formiga-Azul-Amazonense",
+        "description": "Lendária Formiga-Azul-Amazonense",
+        "imageUrl": "https://s.glbimg.com/og/rg/f/original/2010/01/18/vidadeinseto.jpg"
+      },
+      "geometry": {
+        "coordinates": [-65.5, -3.9],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "title": "Borboleta-Rubra-Atlântica",
+        "description": "Mítica Borboleta-Rubra-Atlântica",
+        "imageUrl": "https://static.vecteezy.com/ti/vetor-gratis/p3/3443701-inseto-inseto-borboleta-vermelha-vetor.jpg"
+      },
+      "geometry": {
+        "coordinates": [-65.25, -4],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
